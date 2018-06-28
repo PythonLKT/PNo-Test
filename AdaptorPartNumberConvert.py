@@ -8,7 +8,7 @@ import numpy as np
 #more comments
 #more ocmments
 #and more
-#Edward test
+#Edward tests
 
     # Translation index list between POWEEL & HOSEMASTER
 tsindex = {'JCFX': '18',
