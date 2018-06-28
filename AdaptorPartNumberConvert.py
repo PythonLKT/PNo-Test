@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 
 #Adding a comment to test the commit
+#adding a new comment
 
 
     # Translation index list between POWEEL & HOSEMASTER
